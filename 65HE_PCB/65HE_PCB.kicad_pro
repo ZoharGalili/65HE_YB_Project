@@ -295,7 +295,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 400,
+    "annotate_start_num": 500,
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -396,7 +396,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/ZoharGalili/Documents/GitHub/65_HE_Keyboard/Drawings",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
